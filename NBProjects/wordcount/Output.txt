@@ -1,0 +1,6 @@
+Words in the file are : 18
+Total characters in this file are: 68
+Lines in the file are : 3
+Vowels in the file are : 25
+Sentences in the file are : 3
+Punctuation characters in this file are: 6
